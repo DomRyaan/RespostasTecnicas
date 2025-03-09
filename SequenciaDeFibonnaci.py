@@ -15,7 +15,6 @@ def sequencia_fibonacci(valor):
 
 numero = int(input("Digite um numero: "))
 
-
 if sequencia_fibonacci(numero):
     print(f'{numero} faz parte da sequencia de Fibonacci\n')
 else:
